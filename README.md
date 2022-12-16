@@ -1,6 +1,7 @@
 # Desktop-Voice-Assistant-Using-AI
 It will fully work on the basis of voice command of user . The user will have to say the command, the voice assistant will detect it and will do the work.
 
+![vecteezy_voice-control-flat-style-illustration-design_11880758](https://user-images.githubusercontent.com/47917577/208126986-b9fb9a65-8cc7-4ee5-8272-8840203d1364.jpg)
 
 ## Most welcome for those who are want to create your own issues and contribute .
 
